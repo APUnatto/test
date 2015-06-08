@@ -10,6 +10,6 @@
 plusFunc <- function(x=0,y=0) {
   z = 0
   z = x + y
-  return(z)
+  ggplot2::qplot(z)
 }
 
